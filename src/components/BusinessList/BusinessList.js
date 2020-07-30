@@ -12,7 +12,6 @@ class BusinessList extends React.Component {
           })
         }
       </div>
-
     );
   }
 }
